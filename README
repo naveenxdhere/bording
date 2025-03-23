@@ -1,0 +1,12 @@
+MS XMR Testing is a lightweight experimental framework designed for benchmarking, stress-testing, and monitoring Monero (XMR) mining performance on different systems.
+This project focuses on:
+
+✅ Testing mining performance under various CPU loads
+
+✅ Evaluating MSR tweaks and optimization settings
+
+✅ Stability checks and temperature monitoring
+
+✅ Logging hash rates, rejections, and CPU utilization
+
+✅ Auto-restart logic for miner crash protection
